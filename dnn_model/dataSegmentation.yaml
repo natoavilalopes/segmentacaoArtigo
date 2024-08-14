@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['car', 'motorcycle', 'person', 'road', 'rural_road', 'sky', 'truck', 'vegetation']
+
+roboflow:
+  workspace: visao
+  project: rural_roads_instance
+  version: 13
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/visao/rural_roads_instance/dataset/13
