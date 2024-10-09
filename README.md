@@ -16,3 +16,25 @@ https://drive.google.com/file/d/1geuenAERbRxV3mJRK5N0UJElBtjgY2wP/view?usp=shari
 
 Drive com todo material:  
 https://drive.google.com/drive/folders/111J7AjpR_V6OwRjB4cvlGyN7BakrBLgs
+
+
+
+
+
+Repository of files related to the article Assistance for Navigation of Autonomous Vehicles on Rural Roads using Instance Segmentation.
+
+Relevant links:
+
+Labeled image database:
+https://universe.roboflow.com/visao/segmentacaoartigo
+
+Working application:
+https://drive.google.com/file/d/1YawDZ0nHZAdeMwvynjYwxzdAlTJUzYA1
+
+Training process:
+https://drive.google.com/file/d/1fyGCk_hMf-kYg62ASMaOle7XChxBypXY/view?usp=sharing
+
+Mask implementation:
+https://drive.google.com/file/d/1geuenAERbRxV3mJRK5N0UJElBtjgY2wP/view?usp=sharing
+
+Drive with all material: https://drive.google.com/drive/folders/111J7AjpR_V6OwRjB4cvlGyN7BakrBLgs
