@@ -25,16 +25,16 @@ Repository of files related to the article Assistance for Navigation of Autonomo
 
 Relevant links:
 
-Labeled image database (Roboflow):
+Labeled image database (Roboflow):  
 https://universe.roboflow.com/visao/segmentacaoartigo
 
-Working application (Colab):
+Working application (Colab):  
 https://drive.google.com/file/d/1YawDZ0nHZAdeMwvynjYwxzdAlTJUzYA1
 
-Training process (Colab):
+Training process (Colab):  
 https://drive.google.com/file/d/1fyGCk_hMf-kYg62ASMaOle7XChxBypXY/view?usp=sharing
 
-Mask implementation (Colab):
+Mask implementation (Colab):  
 https://drive.google.com/file/d/1geuenAERbRxV3mJRK5N0UJElBtjgY2wP/view?usp=sharing
 
 Drive with all material (Google Drive):  
