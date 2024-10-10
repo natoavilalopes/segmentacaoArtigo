@@ -6,7 +6,7 @@ Base de imagens rotuladas (Roboflow):
 https://universe.roboflow.com/visao/segmentacaoartigo
 
 Aplicação em funcionamento (Colab):  
-https://drive.google.com/file/d/1YawDZ0nHZAdeMwvynjYwxzdAlTJUzYA1
+[segmentation.ipynb](https://drive.google.com/file/d/1YawDZ0nHZAdeMwvynjYwxzdAlTJUzYA1)
 
 Processo de treinamento (Colab):  
 https://drive.google.com/file/d/1fyGCk_hMf-kYg62ASMaOle7XChxBypXY/view?usp=sharing
