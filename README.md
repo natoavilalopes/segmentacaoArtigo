@@ -1,4 +1,4 @@
-Repositório de arquivos relacionados ao artigo Assistance for Navigation of Autonomous Vehicles on Rural Roads using Instance Segmentation.
+Repositório de arquivos relacionados ao artigo Assistance for Navigation of Autonomous Vehicles on Rural Roads using Instance Segmentation, submetido ao [WVC 2024](https://wvc2024.ufv.br/). 
 
 Links relevantes:
 
@@ -21,7 +21,7 @@ https://drive.google.com/drive/folders/111J7AjpR_V6OwRjB4cvlGyN7BakrBLgs
 - - - - - - - - - - - - - - - - -   
 
 
-Repository of files related to the article Assistance for Navigation of Autonomous Vehicles on Rural Roads using Instance Segmentation.
+Repository of files related to the article Assistance for Navigation of Autonomous Vehicles on Rural Roads using Instance Segmentation, submitted to [WVC 2024](https://wvc2024.ufv.br/).
 
 Relevant links:
 
