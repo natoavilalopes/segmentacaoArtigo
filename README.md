@@ -9,7 +9,7 @@ Aplicação em funcionamento (Colab):
 [segmentation.ipynb](https://drive.google.com/file/d/1YawDZ0nHZAdeMwvynjYwxzdAlTJUzYA1)
 
 Processo de treinamento (Colab):  
-https://drive.google.com/file/d/1fyGCk_hMf-kYg62ASMaOle7XChxBypXY/view?usp=sharing
+[segmentation_train.ipynb](https://drive.google.com/file/d/1fyGCk_hMf-kYg62ASMaOle7XChxBypXY/view?usp=sharing)
 
 Implementação da máscara (Colab):  
 https://drive.google.com/file/d/1geuenAERbRxV3mJRK5N0UJElBtjgY2wP/view?usp=sharing
